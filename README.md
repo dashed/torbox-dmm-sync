@@ -8,6 +8,7 @@ Credits: https://gist.github.com/eliasbenb/10a4a49f3feb9df19b0b8ed838babb82
 
 0. Export and download your DMM backup JSON from: https://debridmediamanager.com/library
 1. Install `uv`. See: https://docs.astral.sh/uv/getting-started/installation/
+   - Also create and activate the virtual environment: `uv venv`  and `source .venv/bin/activate`
 
 2. Run the script using one of these methods:
    ```bash
